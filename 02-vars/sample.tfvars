@@ -1,0 +1,1 @@
+city = "new ashok nagar"

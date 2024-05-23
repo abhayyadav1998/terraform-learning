@@ -1,0 +1,2 @@
+state = "Delhi"
+Country = "India"
